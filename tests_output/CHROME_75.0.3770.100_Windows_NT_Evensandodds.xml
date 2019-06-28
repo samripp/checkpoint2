@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="Evensandodds"
+    errors="0" failures="0" hostname="" id="" package="Evensandodds" skipped="0"
+    tests="1" time="1.102" timestamp="">
+  
+    <testcase name="Odds and Evens" classname="Evensandodds" time="1.102" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
